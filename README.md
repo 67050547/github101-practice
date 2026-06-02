@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| Example Student | Team 00 | Demo | [example evidence](docs/evidence/example-student.md) | - |
+| คชภัค เอี่ยมสอาด | Team 15 | IoT Developer | [example evidence](docs/evidence/example-student.md) | - |
 
 ---
 
